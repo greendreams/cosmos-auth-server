@@ -24,6 +24,6 @@
 /.nb-gradle/
 /build/
 
-/*.jks
-/.mnv/*
+*.jks
+.mnv/*
 

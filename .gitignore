@@ -25,5 +25,7 @@
 /build/
 
 *.jks
+*.jks.*
 .mvn/*
+*.txt
 
